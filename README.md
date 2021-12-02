@@ -6,3 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/22427664/144424114-b15f811b-e1fc-4244-936d-30cab8ddabf4.png)
 
+### Approach
+* CNN is implemented using PyTorch to predict the presence or absence of MGMT.
+
